@@ -1,6 +1,6 @@
 # 📘 IS Project Documentation Template
 
-Welcome! Use this template to document your project properly for review & sharing
+Welcome! This template will help you document your project clearly and effectively for review, collaboration, and open sharing.
 
 Please follow the structure below step-by-step and update each section with your project details.
 All your documentation should be updated in this GitHub repo itself
