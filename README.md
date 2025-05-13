@@ -1,63 +1,23 @@
-# 📘 IS Project Documentation Template
+#📘 Welcome to the IS Project Documentation Template!
+Hey there! 👋
 
-Welcome! This template will help you document your project clearly and effectively for review, collaboration, and open sharing.
+This repository is your home for documenting your Innovation School Project & starting your maker portfolio.
+You’ll be using the GitHub Wiki to update all your project details in a structured format.
 
-Please follow the structure below step-by-step and update each section with your project details.
-All your documentation should be updated in this GitHub repo itself
+🧠 What to Do First
+Start by writing a brief introduction to your project right here in this README.md file:
 
----
+🔹 What problem are you solving?
+🔹 What’s your proposed solution?
 
-## 📌 Project Title
+Just 2–3 lines are enough. This helps others quickly understand what your project is about.
 
-> _Write the name of your project here._  
-> _Example: “Smart Composting System”_
+🛠 Where to Document Everything Else
+We’ve already created a standard set of Wiki pages for your project in this repository — you just need to update them with the correct information.
 
----
-
-## ❓ Problem Statement
-
-> _Briefly describe the problem you're solving and why it matters._  
-> _Example: “Urban homes lack consistent plant care when owners are away. This system automates watering based on soil moisture levels.”_
-
----
-
-## 🌍 SDG Goal (If Applicable)
-
-> _Mention the relevant UN Sustainable Development Goal your project contributes to (e.g., SDG 6 - Clean Water)._  
-> _Example: “This project aligns with SDG 11: Sustainable Cities and Communities.”_
-
----
-
-## 💡 Solution Overview
-
-> _Summarise how your project solves the problem using technology/design._
-
----
-
-## 🛠️ Skills Applied
-
-> _List the key skills you applied in this project:_
-- Electronics
-- Coding (Arduino/Python/etc.)
-- CAD Design
-- Fabrication
-- 3D Printing
-- Research
-
----
-
-## 🔗 Block/Circuit Diagram
-
-> _Add your circuit diagram or system architecture here._  
-> _Upload your image in the repo (PNG/JPG) and embed it:_
-
----
-
-## 🧩 CAD Files (If Any)
-
-> _Include links to your 3D designs or mechanical models_  
-> _Example: `files/cad-model.stl`_
----
+Please go through these links on how to edit your GITHUB Wiki Pages
+🔹 https://docs.github.com/en/communities/documenting-your-project-with-wikis/adding-or-editing-wiki-pages
+🔹 https://docs.github.com/en/communities/documenting-your-project-with-wikis/editing-wiki-content
 
 ## License
 
