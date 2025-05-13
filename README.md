@@ -1,23 +1,66 @@
-#📘 Welcome to the IS Project Documentation Template!
+# 📘 Welcome to the IS Project Documentation Template!
+
 Hey there! 👋
 
-This repository is your home for documenting your Innovation School Project & starting your maker portfolio.
-You’ll be using the GitHub Wiki to update all your project details in a structured format.
+This repository is your home for documenting your **Innovation School Project** and starting your **maker portfolio**.  
+You’ll be using the **GitHub Wiki** to update all your project details in a structured format.
 
-🧠 What to Do First
-Start by writing a brief introduction to your project right here in this README.md file:
+---
 
-🔹 What problem are you solving?
+## 🧠 What to Do First
+
+Start by writing a **brief introduction** to your project right here in this `README.md` file:
+
+🔹 What problem are you solving?  
 🔹 What’s your proposed solution?
 
 Just 2–3 lines are enough. This helps others quickly understand what your project is about.
 
-🛠 Where to Document Everything Else
-We’ve already created a standard set of Wiki pages for your project in this repository — you just need to update them with the correct information.
+---
 
-Please go through these links on how to edit your GITHUB Wiki Pages
-🔹 https://docs.github.com/en/communities/documenting-your-project-with-wikis/adding-or-editing-wiki-pages
-🔹 https://docs.github.com/en/communities/documenting-your-project-with-wikis/editing-wiki-content
+## 🛠 Where to Document Everything Else
+
+We’ve already created a standard set of **Wiki pages** for your project in this repository — you just need to **update them with your project information**.
+
+Each section is ready with headings like:
+
+- 🌟 Project Title  
+- ❓ Problem Statement  
+- 💡 Solution Overview  
+- 🛠 Skills Used  
+- 🧰 CAD/Circuit/Code Files  
+- 📸 Images or Videos  
+- 🔗 External Links or Drive Files
+
+Please **do not delete the headings** — just replace the placeholder content under each.
+
+---
+
+## 📚 How to Edit the GitHub Wiki Pages
+
+Follow these official GitHub help guides to learn how to edit your Wiki pages:
+
+🔗 [How to Add or Edit Wiki Pages](https://docs.github.com/en/communities/documenting-your-project-with-wikis/adding-or-editing-wiki-pages)  
+🔗 [How to Format and Save Content in Wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis/editing-wiki-content)
+
+---
+
+## 📸 Visual Guide (Optional)
+
+If you’re unsure where the Wiki tab is:  
+📍 It’s on the top-right area of the repository (next to Code, Issues, Pull Requests).
+
+You’ll find your project listed there. Click on it, then click **“Edit”** to begin updating.
+
+---
+
+## 🤝 Need Help?
+
+If you're confused at any step:
+- Ask your mentor or coordinator
+- Or drop a message in our Discord/WhatsApp support group
+
+Let’s build something awesome! 🚀
 
 ## License
 
