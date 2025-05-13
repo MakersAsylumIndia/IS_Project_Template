@@ -57,14 +57,6 @@ All your documentation should be updated in this GitHub repo itself
 
 > _Include links to your 3D designs or mechanical models_  
 > _Example: `files/cad-model.stl`_
-
----
-
-## 📋 Bill of Materials (BoM)
-
-> _Upload your BoM as a `.csv` file in the repo and mention it here:_  
-> [Bill of Materials](files/BOM.csv)
-
 ---
 
 ## License
