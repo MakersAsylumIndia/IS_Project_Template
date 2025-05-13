@@ -24,13 +24,14 @@ We’ve already created a standard set of **Wiki pages** for your project in thi
 
 Each section is ready with headings like:
 
-- 🌟 Project Title  
-- ❓ Problem Statement  
-- 💡 Solution Overview  
-- 🛠 Skills Used  
-- 🧰 CAD/Circuit/Code Files  
-- 📸 Images or Videos  
-- 🔗 External Links or Drive Files
+- Project Title
+- Problem Statement
+- Bill of Materials (BOM)
+- Solution Overview
+- SDG Goals Associated
+- Circuit & CAD Files
+- Media Gallery
+- License
 
 Please **do not delete the headings** — just replace the placeholder content under each.
 
