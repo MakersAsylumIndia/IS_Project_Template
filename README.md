@@ -16,6 +16,8 @@ Start by writing a **brief introduction** to your project right here in this `RE
 
 Just 2–3 lines are enough. This helps others quickly understand what your project is about.
 
+Click on the ✏️ PENCIL icon next to the README title above, and you can edit the README directly from within your browser.
+
 ---
 
 ## 🛠 Where to Document Everything Else
