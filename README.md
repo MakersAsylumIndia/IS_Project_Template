@@ -67,18 +67,6 @@ All your documentation should be updated in this GitHub repo itself
 
 ---
 
-## 📸 Images
-
-> _Upload at least 2–3 images of your working prototype in `images/` folder._
-
----
-
-## 🎥 Videos
-
-> _Upload a demo video in MP4 format or add a YouTube/Drive link here._
-
----
-
 ## License
 
 Licenses
