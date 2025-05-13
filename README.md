@@ -22,7 +22,7 @@ Click on the ✏️ PENCIL icon next to the README title above, and you can edit
 
 ## 🛠 Where to Document Everything Else
 
-We’ve already created a standard set of **Wiki pages** for your project in this repository — you just need to **update them with your project information**.
+We’ve already created a standard set of [**Wiki pages**](https://github.com/MakersAsylumIndia/Bowl-Buddy/wiki) for your project in this repository — you just need to **update them with your project information**.
 
 Each section is ready with headings like:
 
