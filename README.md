@@ -69,7 +69,7 @@ Let’s build something awesome! 🚀
 
 Licenses
 
-<a href="LICENSE.md"><img src="Images\Licenses_facts.svg" width="400" alt="Open Source Licenses Facts"/></a>
+<a href="LICENSE.md"><img src="Media\Images\Licenses_facts.svg" width="400" alt="Open Source Licenses Facts"/></a>
 
 #### Hardware
 CERN Open Hardware License Version 2 - Strongly Reciprocal ([CERN-OHL-S-2.0](https://spdx.org/licenses/CERN-OHL-S-2.0.html)).
